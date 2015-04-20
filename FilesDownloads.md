@@ -1,0 +1,1 @@
+To get the directions for using the data, please contact by mail one of the project's people - either larytet or jerusalem.quant (both at gmail).

@@ -1,0 +1,1 @@
+Volume patterns do not directly affect price spreads but volume spurts are a useful warning that a stock may be subject to unusual trading activity and that price development may therefore not be as characterized in statistical models that have been estimated on average recent historical price series.

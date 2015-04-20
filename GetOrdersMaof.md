@@ -1,0 +1,1 @@
+Outdated, use [GetOrdersMF](GetOrdersMF.md) method instead.

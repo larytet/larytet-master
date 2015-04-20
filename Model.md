@@ -1,0 +1,1 @@
+Simple eyeballing and a little thinking lead to the hypotheses, expressed as trade rules, which turned out to work satisfactorily

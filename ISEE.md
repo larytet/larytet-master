@@ -1,0 +1,4 @@
+The ISE Sentiment Index is a call/put ratio that uses opening long customer transactions to calculate bullish/bearish market direction. Opening long transactions are thought to best represent market sentiment because investors often buy call and put options to express their actual market view of a particular stock. Market maker and firm trades, which are excluded, are not considered representative of true market sentiment due to their specialized nature. As such, the ISEE calculation method allows for a more accurate measure of true investor sentiment than traditional put/call ratios.
+
+For example
+![http://larytet-master.googlecode.com/files/ISEE.png](http://larytet-master.googlecode.com/files/ISEE.png)
